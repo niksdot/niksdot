@@ -6,10 +6,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/niksdot/filecopier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-filecopier-dark.svg"><img src="assets/project-filecopier-light.svg" width="49%" alt="filecopier"></picture></a>&nbsp;<a href="https://github.com/niksdot/sfetch"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sfetch-dark.svg"><img src="assets/project-sfetch-light.svg" width="49%" alt="sfetch"></picture></a>
-
-<a href="https://github.com/niksdot/thefear"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-thefear-dark.svg"><img src="assets/project-thefear-light.svg" width="49%" alt="thefear"></picture></a>&nbsp;<a href="https://github.com/niksdot/win-monitor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-win-monitor-dark.svg"><img src="assets/project-win-monitor-light.svg" width="49%" alt="win-monitor"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

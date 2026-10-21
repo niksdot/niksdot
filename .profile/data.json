@@ -1,0 +1,231 @@
+{
+ "key": "efdc458b",
+ "stars": 2,
+ "contributions": 156,
+ "repos": 10,
+ "followers": 1,
+ "languages": [
+  [
+   "HTML",
+   54924
+  ],
+  [
+   "C#",
+   23543
+  ],
+  [
+   "JavaScript",
+   2417
+  ],
+  [
+   "TypeScript",
+   585
+  ],
+  [
+   "Python",
+   560
+  ],
+  [
+   "CSS",
+   158
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "filecopier",
+   "url": "https://github.com/niksdot/filecopier",
+   "text": "Desktop application for copying files with multilingual support and theme selection.",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "sfetch",
+   "url": "https://github.com/niksdot/sfetch",
+   "text": "Fast and perfomance oriented system information tool.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "niksdot",
+   "url": "https://github.com/niksdot/niksdot",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "thefear",
+   "url": "https://github.com/niksdot/thefear",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "PrismLauncher",
+   "url": "https://github.com/niksdot/PrismLauncher",
+   "text": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "win-monitor",
+   "url": "https://github.com/niksdot/win-monitor",
+   "text": "A native, dependency-light Android companion to Win Monitor. It provides live CPU, GPU, and RAM telemetry with 60-second rolling graphs.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "winpackager",
+   "url": "https://github.com/niksdot/winpackager",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "consoleapis",
+   "url": "https://github.com/niksdot/consoleapis",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "world-dashboard",
+   "url": "https://github.com/niksdot/world-dashboard",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ping",
+   "url": "https://github.com/niksdot/ping",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
